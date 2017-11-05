@@ -1,4 +1,2 @@
-**Details:**
-Name: Sagar Navgire
-Email: sagar.navgire@asu.edu
-Phone: 4804102522
+**Details about Challenge:**
+https://github.com/InsightDataScience/find-political-donors
