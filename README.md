@@ -8,8 +8,7 @@
 7. [Writing clean, scalable and well-tested code](README.md#writing-clean-scalable-and-well-tested-code)
 8. [Repo directory structure](README.md#repo-directory-structure)
 9. [Testing your directory structure and output format](README.md#testing-your-directory-structure-and-output-format)
-10. [Instructions to submit your solution](README.md#instructions-to-submit-your-solution)
-11. [FAQ](README.md#faq)
+
 
 # Introduction
 You’re a data engineer working for political consultants and you’ve been asked to help identify possible donors for a variety of upcoming election campaigns. 
@@ -268,4 +267,3 @@ On success:
 
 One test has been provided as a way to check your formatting and simulate how we will be running tests when you submit your solution. We urge you to write your own additional tests. `test_1` is only intended to alert you if the directory structure or the output for this test is incorrect.
 
-Your submission must pass at least the provided test in order to pass the coding challenge.
